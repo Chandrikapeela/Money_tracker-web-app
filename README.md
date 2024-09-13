@@ -20,7 +20,7 @@ To set up and run the Expense Tracker application, follow these steps:
 
    Download the source code as a ZIP file or clone the repository using Git:
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/Chandrikapeela/Money_tracker-web-app.git
    ```
 
 2. **Navigate to the Project Directory**
